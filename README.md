@@ -10,6 +10,7 @@ O objetivo final é calcular a mediana da duração da sessão de cada segmento.
 As seguintes bibliotecas são necessárias:
 * numpy
 * pandas
+
 Elas estão referenciadas no arquivo requirements.txt
 * pip install -r requirements.txt
 
